@@ -16,4 +16,4 @@ I'm passionate about AI to extract meaningful insights and create intelligent so
 
 I'm open to collaborations, discussions, and opportunities in the exciting realm of data-driven technologies. Let's connect and explore possibilities!
 
-- **LinkedIn**: [ben-youssef-malek]([link](https://www.linkedin.com/in/ben-youssef-malek/))
+- **LinkedIn**: [ben-youssef-malek]((https://www.linkedin.com/in/ben-youssef-malek/))
