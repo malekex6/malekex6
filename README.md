@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there, I'm Malek 👋
 
-<!--
-**malekex6/malekex6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about AI to extract meaningful insights and create intelligent solutions. As a dedicated enthusiast in the field, I delve into various domains, including:
 
-Here are some ideas to get you started:
+- **Machine Learning & Deep Learning**: Exploring cutting-edge algorithms and techniques to build predictive models and solve complex problems.
+- **Natural Language Processing (NLP)**: Harnessing the power of NLP to understand, process, and generate human language data for diverse applications.
+- **Data Analysis & Visualization**: Analyzing datasets and visualizing patterns to derive actionable insights.
+- **Lifelong Learning & Continuous Improvement**: Engaging in ongoing learning to stay updated with the latest advancements and technologies in the field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects & Contributions
+
+- **[Tool Management Backend-Safran]([link-to-project](https://github.com/malekex6/Safran_Project.git))**: Developed backend solutions leveraging Spring Boot and Java <version> for the Safran project. Orchestrated RESTful APIs and integrated frontend components, contributing to a robust tool management system. Involved in designing and implementing key functionalities, streamlining data processing, and ensuring scalability. Delivered impactful solutions resulting in improved tool management efficiency and operational effectiveness.
+
+
+## Get in Touch
+
+I'm open to collaborations, discussions, and opportunities in the exciting realm of data-driven technologies. Let's connect and explore possibilities!
+
+- **LinkedIn**: [ben-youssef-malek](https://www.linkedin.com/in/ben-youssef-malek)
