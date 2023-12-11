@@ -9,14 +9,19 @@ I'm passionate about AI to extract meaningful insights and create intelligent so
 
 ## Projects & Contributions
 
-#### Tool Management Backend - Safran
+### Tool Management Backend - Safran Group
 - **Tech Stack:** Spring Boot, Java
 - Developed RESTful APIs for a robust tool management system.
 - Designed and implemented key functionalities for streamlined data processing.
 - Improved tool management efficiency and operational effectiveness.
 -  [link-to-project](https://github.com/malekex6/Safran_Project.git)
 
-- **IMDB Sentiment Analysis**: The IMDB Sentiment Analysis is an NLP project, this tool predicts sentiments—positive or negative—within movie reviews sourced from the IMDB dataset. The project extensively utilizes NLP libraries such as NLTK and SpaCy: [link-to-project](https://github.com/malekex6/IMDB_Sentiment_Analysis)
+### IMDB Sentiment Analysis
+  - **Tech Stack:** ML, NLP, NLTK, SpaCy
+  - Predicts sentiments (positive or negative) within movie reviews sourced from the IMDB dataset using NLP techniques.
+  - Utilizes NLP libraries such as NLTK and SpaCy extensively.
+  - [Link to Project](https://github.com/malekex6/IMDB_Sentiment_Analysis)
+
 
 ## Languages and Tools
 <a href="https://www.python.org" target="_blank" rel="nofollow"><img alt="Python" src="https://img.shields.io/badge/Python-212121?style=for-the-badge&logo=python&logoColor=yellow" /></a>
