@@ -22,7 +22,8 @@ I'm passionate about AI to extract meaningful insights and create intelligent so
   - Utilizes NLP libraries such as NLTK and SpaCy extensively.
   - [Link to Project](https://github.com/malekex6/IMDB_Sentiment_Analysis)
 
-<h3 align="lefft">Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
+
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="nofollow"><img alt="Python" src="https://img.shields.io/badge/Python-212121?style=for-the-badge&logo=python&logoColor=yellow" /></a>
   <a href="https://www.java.com" target="_blank" rel="nofollow"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
