@@ -13,6 +13,13 @@ I'm passionate about AI to extract meaningful insights and create intelligent so
 
 - **IMDB Sentiment Analysis**: The IMDB Sentiment Analysis is an NLP project, this tool predicts sentiments—positive or negative—within movie reviews sourced from the IMDB dataset. The project extensively utilizes NLP libraries such as NLTK and SpaCy: [link-to-project](https://github.com/malekex6/IMDB_Sentiment_Analysis)
 
+## Languages and Tools
+
+<a href="https://www.java.com" target="_blank" rel="nofollow"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
+<a href="https://en.cppreference.com/" target="_blank" rel="nofollow"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+<a href="https://www.learn-c.org/" target="_blank" rel="nofollow"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="nofollow"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /></a>
+
 
 ## Get in Touch
 
