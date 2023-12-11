@@ -18,7 +18,16 @@ I'm passionate about AI to extract meaningful insights and create intelligent so
 <a href="https://www.java.com" target="_blank" rel="nofollow"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
 <a href="https://en.cppreference.com/" target="_blank" rel="nofollow"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
 <a href="https://www.learn-c.org/" target="_blank" rel="nofollow"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
+<br>
+<a href="https://www.w3.org/html" target="_blank" rel="nofollow"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="https://www.w3schools.com/css" target="_blank" rel="nofollow"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="nofollow"><img alt="JavaScript" src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a href="https://www.angular.io" target="_blank" rel="nofollow"><img alt="Angular" src="https://img.shields.io/badge/ANGULAR-E34F26?style=for-the-badge&logo=angular&logoColor=white" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="nofollow"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /></a>
+<br>
+<a href="https://www.mysql.com/" target="_blank" rel="nofollow"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a href="https://www.oracle.com/database/" target="_blank" rel="nofollow"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="nofollow"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 
 
 ## Get in Touch
