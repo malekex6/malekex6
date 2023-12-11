@@ -7,7 +7,7 @@ I'm passionate about AI to extract meaningful insights and create intelligent so
 - **Data Analysis & Visualization**: Analyzing datasets and visualizing patterns to derive actionable insights.
 - **Lifelong Learning & Continuous Improvement**: Engaging in ongoing learning to stay updated with the latest advancements and technologies in the field.
 
-## Projects & Contributions
+<h3 align="center">Projects & Contributions</h3>
 
 ### Tool Management Backend - Safran Group
 - **Tech Stack:** Spring Boot, Java
@@ -22,8 +22,8 @@ I'm passionate about AI to extract meaningful insights and create intelligent so
   - Utilizes NLP libraries such as NLTK and SpaCy extensively.
   - [Link to Project](https://github.com/malekex6/IMDB_Sentiment_Analysis)
 
+<h3 align="center">Languages and Tools</h3>
 
-## Languages and Tools
 <a href="https://www.python.org" target="_blank" rel="nofollow"><img alt="Python" src="https://img.shields.io/badge/Python-212121?style=for-the-badge&logo=python&logoColor=yellow" /></a>
 <a href="https://www.java.com" target="_blank" rel="nofollow"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
 <a href="https://en.cppreference.com/" target="_blank" rel="nofollow"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
