@@ -8,21 +8,21 @@ I'm passionate about AI to extract meaningful insights and create intelligent so
 - **Lifelong Learning & Continuous Improvement**: Engaging in ongoing learning to stay updated with the latest advancements and technologies in the field.
 
 <h3 align="center">Projects & Contributions</h3>
-<p align="center">
-  ### Tool Management Backend - Safran Group
+
+ ### Tool Management Backend - Safran Group
   - **Tech Stack:** Spring Boot, Java
   - Developed RESTful APIs for a robust tool management system.
   - Designed and implemented key functionalities for streamlined data processing.
   - Improved tool management efficiency and operational effectiveness.
   -  [link-to-project](https://github.com/malekex6/Safran_Project.git)
-  
-  ### IMDB Sentiment Analysis
-    - **Tech Stack:** ML, NLP, NLTK, SpaCy
-    - Predicts sentiments (positive or negative) within movie reviews sourced from the IMDB dataset using NLP techniques.
-    - Utilizes NLP libraries such as NLTK and SpaCy extensively.
-    - [Link to Project](https://github.com/malekex6/IMDB_Sentiment_Analysis)
 
-<h3 align="center">Languages and Tools</h3>
+  ### IMDB Sentiment Analysis
+  - **Tech Stack:** ML, NLP, NLTK, SpaCy
+  - Predicts sentiments (positive or negative) within movie reviews sourced from the IMDB dataset using NLP techniques.
+  - Utilizes NLP libraries such as NLTK and SpaCy extensively.
+  - [Link to Project](https://github.com/malekex6/IMDB_Sentiment_Analysis)
+
+<h3 align="lefft">Languages and Tools</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="nofollow"><img alt="Python" src="https://img.shields.io/badge/Python-212121?style=for-the-badge&logo=python&logoColor=yellow" /></a>
   <a href="https://www.java.com" target="_blank" rel="nofollow"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
