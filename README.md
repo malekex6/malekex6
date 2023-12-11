@@ -36,7 +36,8 @@ I'm passionate about AI to extract meaningful insights and create intelligent so
   <a href="https://www.mysql.com/" target="_blank" rel="nofollow"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="https://www.oracle.com/database/" target="_blank" rel="nofollow"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="nofollow"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-
+<br>
+<a href="#" target="_blank" rel="nofollow"><img alt="Other" src="https://img.shields.io/badge/AND MORE...-323330?style=for-the-badge" /></a>
 
 <h3 align="center">Social Media</h3>
 
