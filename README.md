@@ -10,7 +10,7 @@ I'm passionate about AI to extract meaningful insights and create intelligent so
 <h3 align="center">Projects & Contributions</h3>
 
  ### Tool Management Backend - Safran Group
-  - **Tech Stack:** Spring Boot, Java
+  - **Tech Stack:** Spring Boot, Java, MySQL
   - Developed RESTful APIs for a robust tool management system.
   - Designed and implemented key functionalities for streamlined data processing.
   - Improved tool management efficiency and operational effectiveness.
