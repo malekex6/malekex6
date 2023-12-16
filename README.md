@@ -18,6 +18,10 @@ I'm passionate about AI to extract meaningful insights and create intelligent so
   - **Tech Stack:** ML, NLP, NLTK, SpaCy
   - Predicts sentiments (positive or negative) within movie reviews sourced from the IMDB dataset using NLP techniques.
   - [Link to Project](https://github.com/malekex6/Sentiment-Analysis)
+    
+### Llama-2-Soccer-Chatbot
+- **Tech Stack:** Python, LangChain, Chainlit, Hugging Face Embeddings (MiniLM-L6-v2), FAISS
+- Using LangChain and Hugging Face embeddings to create an information retrieval system for soccer. Integrated advanced models for precise, query-based responses.
 
 <h3 align="center">Languages and Tools</h3>
 
