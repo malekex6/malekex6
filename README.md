@@ -22,7 +22,7 @@ I'm passionate about AI to extract meaningful insights and create intelligent so
 ### Llama-2-Soccer-Chatbot
 - **Tech Stack:** Python, LangChain, Chainlit, Hugging Face Embeddings (MiniLM-L6-v2), FAISS
 - Using LangChain and Hugging Face embeddings to create an information retrieval system for soccer. Integrated advanced models for precise, query-based responses.
-
+- [Link to Project](https://github.com/malekex6/Llama-2-Soccer-Chatbot)
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
