@@ -1,11 +1,6 @@
 # Hi there, I'm Malek 👋
 
-I'm passionate about AI to extract meaningful insights and create intelligent solutions. As a dedicated enthusiast in the field, I delve into various domains, including:
-
-- **Machine Learning & Deep Learning**: Exploring cutting-edge algorithms and techniques to build predictive models and solve complex problems.
-- **Natural Language Processing (NLP)**: Harnessing the power of NLP to understand, process, and generate human language data for diverse applications.
-- **Data Analysis & Visualization**: Analyzing datasets and visualizing patterns to derive actionable insights.
-- **Lifelong Learning & Continuous Improvement**: Engaging in ongoing learning to stay updated with the latest advancements and technologies in the field.
+- **I'm an enthusiastic student deeply passionate about data science. I thrive on implementing machine learning and deep learning projects, refining my problem-solving and coding skills. Eager to contribute my expertise to impactful industry challenges.**
 
 <h3 align="center">Projects & Contributions</h3>
 
