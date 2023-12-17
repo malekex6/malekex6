@@ -3,8 +3,7 @@
 - I'm an enthusiastic student deeply passionate about data science. I thrive on implementing machine learning and deep learning projects, refining my problem-solving and coding skills. Eager to contribute my expertise to impactful industry challenges.
 - 🌱 I’m learning something new every day.
 - 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
-
-
+<br>
 
 <h3 align="center">Projects & Contributions</h3>
 
