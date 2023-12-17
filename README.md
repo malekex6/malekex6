@@ -23,7 +23,7 @@
 - **Tech Stack:** Spring Boot, Java, MySQL
 - Developed RESTful APIs for a robust tool management system.
 -  [Link to Project](https://github.com/malekex6/Safran_Project.git)
-    
+  <br>
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
