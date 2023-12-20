@@ -1,8 +1,9 @@
 # Hi there, I'm Malek 👋
 
-- I'm an enthusiastic student deeply passionate about data science. I thrive on implementing machine learning and deep learning projects, refining my problem-solving and coding skills. Eager to contribute my expertise to impactful real world challenges.
-- 🌱 I’m learning something new every day.
+- enthusiastic and deeply passionate about AI. 
+- 🌱 I’m learning something new every day About Data Science.
 - 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
+- 📫 https://mail.google.com/mail/u/2/#inbox
 <br>
 
 <h3 align="center">Projects & Contributions</h3>
