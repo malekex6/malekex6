@@ -1,9 +1,9 @@
 # Hi there, I'm Malek 👋
-**enthusiastic and deeply passionate about AI.**
+**Enthusiastic and deeply passionate about AI.**
 
 - 🌱 I’m learning something new every day About Data Science.
 - 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
-- 📫 https://mail.google.com/mail/u/2/#inbox
+- 📫 Reach me at: malekbenyoussef00@gmail.com
 <br>
 
 <h3 align="center">Projects & Contributions</h3>
