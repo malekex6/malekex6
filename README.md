@@ -32,7 +32,6 @@
   <a href="https://www.java.com" target="_blank" rel="nofollow"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
   <a href="https://en.cppreference.com/" target="_blank" rel="nofollow"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
   <a href="https://www.learn-c.org/" target="_blank" rel="nofollow"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="nofollow"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
     
 
   <br>
