@@ -17,7 +17,7 @@
     
 ### Llama-2-Soccer-Chatbot
 - **Tech Stack:** Python, LangChain, Chainlit, Hugging Face Embeddings (MiniLM-L6-v2), FAISS
-- Using LangChain and Hugging Face embeddings to create an information retrieval system for soccer. Integrated advanced models for precise, query-based responses.
+- An information retrieval system About Soccer (Sports).
 - [Link to Project](https://github.com/malekex6/Llama-2-Soccer-Chatbot)
   
 ### Tool Management Backend - Safran Group
