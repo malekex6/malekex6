@@ -1,5 +1,5 @@
 # Hi there, I'm Malek 👋
-**Enthusiastic and deeply passionate about AI.**
+*Enthusiastic and deeply passionate about AI.*
 
 - 🌱 I’m learning something new every day About Data Science.
 - 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
