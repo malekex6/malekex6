@@ -2,7 +2,7 @@
 *Enthusiastic and deeply passionate about AI.*
 
 - 🌱 I’m learning something new every day About Data Science.
-- 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
+- 👯 Open to work.
 - 📫 Reach me at: malekbenyoussef00@gmail.com
 <br>
 
