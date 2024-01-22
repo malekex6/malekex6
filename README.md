@@ -12,7 +12,7 @@
 
 ### IMDB Sentiment Analysis
 - **Tech Stack:** ML, NLP, NLTK, SpaCy
-- Predicts sentiments (positive or negative) within movie reviews sourced from the IMDB dataset using NLP techniques.
+- Predicts sentiments (positive or negative) within movie reviews sourced from the IMDB dataset using NLP techniques. <br>
  [Project repository](https://github.com/malekex6/Sentiment-Analysis)
     
 ### Llama-2-Soccer-Chatbot
