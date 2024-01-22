@@ -13,17 +13,17 @@
 ### IMDB Sentiment Analysis
 - **Tech Stack:** ML, NLP, NLTK, SpaCy
 - Predicts sentiments (positive or negative) within movie reviews sourced from the IMDB dataset using NLP techniques.
-- [Link to Project](https://github.com/malekex6/Sentiment-Analysis)
+ [Project repository](https://github.com/malekex6/Sentiment-Analysis)
     
 ### Llama-2-Soccer-Chatbot
 - **Tech Stack:** Python, LangChain, Chainlit, Hugging Face Embeddings (MiniLM-L6-v2), FAISS
 - An information retrieval system About Soccer (Sports).
-- [Link to Project](https://github.com/malekex6/Llama-2-Soccer-Chatbot)
+- [Project repository](https://github.com/malekex6/Llama-2-Soccer-Chatbot)
   
 ### Tool Management Backend - Safran Group
 - **Tech Stack:** Spring Boot, Java, MySQL
 - Developed RESTful APIs for a robust tool management system.
--  [Link to Project](https://github.com/malekex6/Safran_Project.git)
+-  [Project repository](https://github.com/malekex6/Safran_Project.git)
   <br>
 <h3 align="center">Languages and Tools</h3>
 
