@@ -6,27 +6,6 @@
 - 📫 Reach me at: malekbenyoussef00@gmail.com
 <br>
 
-<h3 align="center">Projects & Contributions</h3>
-
-
-
-### IMDB Sentiment Analysis
-- **Tech Stack:** ML, NLP, NLTK, SpaCy
-- Predicts sentiments (positive or negative) within movie reviews sourced from the IMDB dataset using NLP techniques. <br>
- [Project repository](https://github.com/malekex6/Sentiment-Analysis)
-    
-### Llama-2-Soccer-Chatbot
-- **Tech Stack:** Python, LangChain, Chainlit, Hugging Face Embeddings (MiniLM-L6-v2), FAISS
-- An information retrieval system About Soccer (Sports).<br>
- [Project repository](https://github.com/malekex6/Llama-2-Soccer-Chatbot)
-  
-### Tool Management Backend - Safran Group
-- **Tech Stack:** Spring Boot, Java, MySQL
-- Developed RESTful APIs for a robust tool management system.<br>
- [Project repository](https://github.com/malekex6/Safran_Project.git)
-  <br>
-<h3 align="center">Languages and Tools</h3>
-
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="nofollow"><img alt="Python" src="https://img.shields.io/badge/Python-212121?style=for-the-badge&logo=python&logoColor=yellow" /></a>
   <a href="https://www.java.com" target="_blank" rel="nofollow"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
