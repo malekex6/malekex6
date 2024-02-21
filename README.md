@@ -1,7 +1,6 @@
 # Hi there, I'm Malek 👋
-*Enthusiastic and deeply passionate about AI.*
+*🌱 I learn something new about machine learning every day.*
 
-- 🌱 I’m learning something new every day About Data Science.
 - 👯 Open to work.
 - 📫 Reach me at: malekbenyoussef00@gmail.com
 <br>
