@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Industrial+IT+Engineering+student;Machine+Learning+Engineer;AI+Enthusiast)](https://git.io/typing-svg)
 ## About Me
 - 🌱 I learn something new about machine learning every day!
-- 🥅 Currently working on Generative AI projects
+- 🥅 Currently working on Generative AI project
 - 👯 Open to work.
 - 📫 Reach me at: malekbenyoussef00@gmail.com
 <br>
