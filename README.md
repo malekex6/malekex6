@@ -11,6 +11,7 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
+<img width="50" height="50" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="Google"/>
 <img width="50" height="50" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python"/>
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20240131042527" alt="R"/>  
 <img width="50" height="50" src="https://www.svgrepo.com/show/452234/java.svg" alt="Java"/>
