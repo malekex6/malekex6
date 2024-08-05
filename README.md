@@ -13,7 +13,9 @@
 
 <!-- Add the certification image here -->
 <p align="center">
-  <img src="https://github.com/malekex6/GCP-ML-PRO/blob/main/Google%20Cloud%20Certified.png" alt="Google ML Certification" width="400"/>
+    <a href="https://www.credly.com/badges/92852b5c-3ae9-4a1d-8f7e-b841f3367098/linked_in_profile">
+    <img src="https://github.com/malekex6/GCP-ML-PRO/blob/main/Google%20Cloud%20Certified.png" alt="Google ML Certification" width="400"/>
+  </a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
