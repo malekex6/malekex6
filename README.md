@@ -13,7 +13,7 @@
 
 <!-- Add the certification image here -->
 <p align="center">
-  <img src="https://github.com/yourusername/certifications/blob/main/google_ml_certification.png" alt="Google ML Certification" width="400"/>
+  <img src="https://github.com/malekex6/GCP-ML-PRO/blob/main/Google%20Cloud%20Certified.png" alt="Google ML Certification" width="400"/>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
