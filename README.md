@@ -14,10 +14,10 @@
 <!-- Add the clickable certification image with descriptive text here -->
 <p align="center">
     <a href="https://www.credly.com/badges/92852b5c-3ae9-4a1d-8f7e-b841f3367098/linked_in_profile">
-        <img src="https://github.com/malekex6/GCP-ML-PRO/blob/main/Google%20Cloud%20Certified.png" alt="Google ML Certification" width="400"/>
+        <img src="https://github.com/malekex6/GCP-ML-PRO/blob/main/Google%20Cloud%20Certified.png" alt="Google ML Certification" width="500"/>
   </a>
   <br>
-  <a href="https://www.credly.com/your-credential-url" target="_blank">Click to see credential</a>
+  <a href="https://www.credly.com/badges/92852b5c-3ae9-4a1d-8f7e-b841f3367098/linked_in_profile" target="_blank">Click to see credential</a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
