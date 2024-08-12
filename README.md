@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Malek</h1>
 
-<div align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;AI+Enthusiast" alt="Typing SVG">
   </a>
-</div>
+
 
 ## About Me
 - 🎓 Google Cloud Professional Machine Learning Engineer Certified
