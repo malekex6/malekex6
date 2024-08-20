@@ -25,10 +25,11 @@
 <img width="50" height="50" src="https://www.svgrepo.com/show/355152/oracle.svg" alt="Oracle"/>
 <img width="50" height="50" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="PostgreSQL"/>
 
+<!--
 <div align="center"> 
     <h3 align="center">My Github Stats</h3>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=malekex6&count_private=true&show_icons=true" alt="Gift's LangStat" /> 
-
+-->
 <h3 align="center">Social Media</h3>
 
 <p align="center">
