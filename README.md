@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Malek</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;AI+Enthusiast)](https://git.io/typing-svg)
+
+
 ## About Me
 - 🎓 <a href="https://git.io/typing-svg"> Google Cloud Professional Machine Learning Engineer Certified</a>
 - 🌱 I learn something new about machine learning every day!
