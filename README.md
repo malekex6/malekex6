@@ -8,7 +8,7 @@
 - 🌱 I learn something new about machine learning every day!
 - 🥅 Currently working on Generative AI project
 - 👯 Open to work.
-- 📫 Reach me at: malekbenyoussef00@gmail.com
+- 📫 Reach me at: malek.benyoussef@insat.ucar.tn
 
 <br>
 
