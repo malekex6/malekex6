@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Malek</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Student;MLOps+Enthusiast)](https://git.io/typing-svg)
 
 
 ## About Me
