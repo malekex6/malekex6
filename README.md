@@ -22,8 +22,6 @@
 <img width="50" height="50" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="PostgreSQL"/>
 <img width="44" height="44" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="C"/>
 <img width="50" height="50" src="https://www.svgrepo.com/show/452183/cpp.svg" alt="C++"/>
-<img width="50" height="50" src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2020/05/spring-boot-logo.png?w=856&ssl=1" alt="Spring Boot"/>
-
 
 <!--
 <div align="center"> 
