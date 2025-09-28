@@ -21,7 +21,6 @@
 <img width="50" height="50" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="PostgreSQL"/>
 <img width="50" height="50" src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker"/>
 <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="BigQuery"/>
-<img width="50" height="50" src="https://app.matatika.com/assets/logos/extractors/dbt.png" alt="BigQuery"/>
 
 
 
