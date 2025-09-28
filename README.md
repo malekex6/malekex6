@@ -18,10 +18,15 @@
 <img width="50" height="50" src="https://github.com/user-attachments/assets/48a7aec1-fb8a-458b-a5fd-f5bda443af64" alt="apache"/>       
 <img width="50" height="50" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python"/>
 <img width="50" height="50" src="https://www.svgrepo.com/show/354099/mysql.svg" alt="MySQL"/>
-<img width="50" height="50" src="https://www.svgrepo.com/show/355152/oracle.svg" alt="Oracle"/>
 <img width="50" height="50" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="PostgreSQL"/>
-<img width="44" height="44" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="C"/>
-<img width="50" height="50" src="https://www.svgrepo.com/show/452183/cpp.svg" alt="C++"/>
+<img width="50" height="50" src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker"/>
+<img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="BigQuery"/>
+<img width="50" height="50" src="https://app.matatika.com/assets/logos/extractors/dbt.png" alt="BigQuery"/>
+
+
+
+
+
 
 <!--
 <div align="center"> 
