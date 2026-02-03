@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malek</h1>
+<h1 align="center">Hi I'm Malek</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Scientist;MLOps+Enthusiast)](https://git.io/typing-svg)
 
