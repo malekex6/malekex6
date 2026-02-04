@@ -4,9 +4,12 @@
 
 
 ## About Me
-- 🎓 <a href="https://www.credly.com/badges/92852b5c-3ae9-4a1d-8f7e-b841f3367098/linked_in_profile"> Google Cloud Professional Machine Learning Engineer Certified</a>
+- 🎓 **Google Cloud Certifications**
+  - <a href="https://www.credly.com/badges/92852b5c-3ae9-4a1d-8f7e-b841f3367098/linked_in_profile">Professional Machine Learning Engineer</a>
+  - <a href="https://www.credly.com/earner/earned/badge/b623c2a3-d4f6-4cfb-906e-765944cda5eb">Professional Data Engineer</a>
 - 🌱 I learn something new about AI every day!
 - 📫 Reach me at: malekbenyoussef00@gmail.com
+
 
 <br>
 
