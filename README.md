@@ -25,8 +25,6 @@
 <img width="50" height="50" src="https://github.com/user-attachments/assets/48a7aec1-fb8a-458b-a5fd-f5bda443af64" alt="apache"/>       
 <img width="50" height="50" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python"/>
 <img width="50" height="50" src="https://www.svgrepo.com/show/354099/mysql.svg" alt="MySQL"/>
-
-<img width="50" height="50" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="PostgreSQL"/>
 <img width="50" height="50" src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker"/>
 
 
