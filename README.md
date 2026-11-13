@@ -17,15 +17,16 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-<img width="50" height="50" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="Google"/>
+<img width="50" height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud"/>
 <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="BigQuery"/>
-<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vertex_AI_Logo.svg/1280px-Vertex_AI_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="BigQuery"/>
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vertex_AI_Logo.svg/1280px-Vertex_AI_Logo.svg.png" alt="Vertex AI"/>
 <img width="50" height="50" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/snowflake-color.png" alt="Snowflake"/>
 <img width="50" height="50" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-ytv7trkoaqcnvr5yxcvvk.png/dbt-384wi7nth5d4pvytczw6vn.png?_a=DATAiZAAZAA0" alt="dbt"/>
-<img width="50" height="50" src="https://github.com/user-attachments/assets/48a7aec1-fb8a-458b-a5fd-f5bda443af64" alt="apache"/>       
-<img width="50" height="50" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python"/>
-<img width="50" height="50" src="https://www.svgrepo.com/show/354099/mysql.svg" alt="MySQL"/>
-<img width="50" height="50" src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker"/>
+<img width="50" height="50" src="https://github.com/user-attachments/assets/48a7aec1-fb8a-458b-a5fd-f5bda443af64" alt="Apache"/>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/>
+<img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker"/>
+</p>
 
 
 
